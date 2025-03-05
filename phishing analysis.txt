@@ -28,3 +28,4 @@ All URLs have been defanged to prevent them from being clickable since most of t
 you can fang the URLs with CyberChef ["gchq.github.io/CyberChef"]
 
 Please feel free to critic or notify me on what I could do better.
+I will be adding more samples from time to time
